@@ -1,2 +1,2 @@
-# GeometryProjects
-A repository for geometry projects of the second term | the first year, SPbU
+# Geometry project | 2nd term, SPbU
+В рамках практики по геометрии необходимо было решить следующую задачу:
